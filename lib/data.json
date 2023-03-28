@@ -1,0 +1,24 @@
+[
+  {
+    "Id": "1",
+    "Name": "Uzair",
+    "Age": 20,
+    "Email": "uzairbaloch03@gmail.com",
+    "Phone": 923163912369
+  },
+  {
+    "Id": "2",
+    "Name": "Adil ",
+    "Age": 19,
+    "Email": "adil12@gmail.com",
+    "Phone": 923163932169
+  },
+  {
+    "Id": "3",
+    "Name": "Zuhaib",
+    "Age": 21,
+    "Email": "zuhaib3@gmail.com",
+    "Phone": 923164412369
+  }
+]
+
